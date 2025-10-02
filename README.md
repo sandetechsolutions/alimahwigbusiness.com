@@ -1,5 +1,4 @@
 # alimahwigbusiness.com
-# Alimah Wig Business
 
 ![Logo](logo.png)
 
